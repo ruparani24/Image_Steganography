@@ -31,3 +31,13 @@ Consider our previously encoded image.
 [(26, 63, 164), (248, 243, 194), (174, 246, 250), (148, 95, 231),
 (188, 155, 168), (70, 167, 126), (132, 173, 97), (112, 69, 206),
 (254, 29, 213), (53, 153, 220), (246, 225, 229), (142, 82, 175)]
+
+
+
+AUTHOR 🔗
+
+Vishal.B _ https://github.com/VishalB-2k3
+
+G.S.Ruparani - https://github.com/ruparani24
+
+Pushkala.S - https://github.com/Pushkala-S
